@@ -1,2 +1,2 @@
 # 9FTeszt
-9F soztályt teszt repository
+9F oztályt teszt repository
